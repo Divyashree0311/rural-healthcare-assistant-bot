@@ -1,0 +1,4002 @@
+[
+  {
+    "_id": "KB_001",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_002",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_003",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_004",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_005",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_006",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_007",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_008",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_009",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_010",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_011",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_012",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_013",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_014",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_015",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_016",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_017",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_018",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_019",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_020",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_021",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_022",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_023",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_024",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_025",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_026",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_027",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_028",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_029",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_030",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_031",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_032",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_033",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_034",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_035",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_036",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_037",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_038",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_039",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_040",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_041",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_042",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_043",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_044",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_045",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_046",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_047",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_048",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_049",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_050",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_051",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_052",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_053",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_054",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_055",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_056",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_057",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_058",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_059",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_060",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_061",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_062",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_063",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_064",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_065",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_066",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_067",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_068",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_069",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_070",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_071",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_072",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_073",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_074",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_075",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_076",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_077",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_078",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_079",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_080",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_081",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_082",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_083",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_084",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_085",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_086",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_087",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_088",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_089",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_090",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_091",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_092",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_093",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_094",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_095",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_096",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "painful_periods",
+      "name": {
+        "en": "Painful Periods",
+        "hi": "दर्दनाक मासिक धर्म",
+        "te": "బాధాకరమైన రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "hi": [
+        "Calcium",
+        "Magnesium"
+      ],
+      "te": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "advice": {
+      "en": "Painful Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "दर्दनाक मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "బాధాకరమైన రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_097",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "heavy_bleeding",
+      "name": {
+        "en": "Heavy Menstrual Bleeding",
+        "hi": "अत्यधिक रक्तस्राव",
+        "te": "అధిక రక్తస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron"
+      ],
+      "hi": [
+        "Iron"
+      ],
+      "te": [
+        "Iron"
+      ]
+    },
+    "advice": {
+      "en": "Heavy Menstrual Bleeding is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अत्यधिक रक्तस्राव महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అధిక రక్తస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_098",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "white_discharge",
+      "name": {
+        "en": "White Discharge",
+        "hi": "सफेद पानी",
+        "te": "తెల్లని స్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "hi": [
+        "Hygiene",
+        "Immunity"
+      ],
+      "te": [
+        "Hygiene",
+        "Immunity"
+      ]
+    },
+    "advice": {
+      "en": "White Discharge is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "सफेद पानी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "తెల్లని స్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_099",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "anemia",
+      "name": {
+        "en": "Anemia",
+        "hi": "खून की कमी",
+        "te": "రక్తహీనత"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "hi": [
+        "Iron",
+        "Vitamin B12"
+      ],
+      "te": [
+        "Iron",
+        "Vitamin B12"
+      ]
+    },
+    "advice": {
+      "en": "Anemia is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "खून की कमी महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "రక్తహీనత సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "KB_100",
+    "model_id": 1,
+    "category": {
+      "code": "women_health",
+      "name": {
+        "en": "Women Health",
+        "hi": "महिला स्वास्थ्य",
+        "te": "మహిళల ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "irregular_periods",
+      "name": {
+        "en": "Irregular Periods",
+        "hi": "अनियमित मासिक धर्म",
+        "te": "అనియత రుతుస్రావం"
+      }
+    },
+    "severity": "moderate",
+    "deficiency": {
+      "en": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "hi": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ],
+      "te": [
+        "Iron",
+        "Hormonal balance",
+        "Nutrition"
+      ]
+    },
+    "advice": {
+      "en": "Irregular Periods is commonly seen in women due to nutritional deficiency, stress, or lack of awareness. Women should focus on balanced diet, adequate rest, hydration, and hygiene. Home foods like green leafy vegetables, fruits, millets, and warm fluids help improve health. If symptoms persist or worsen, medical consultation is necessary.",
+      "hi": "अनियमित मासिक धर्म महिलाओं में पोषण की कमी, तनाव या जागरूकता की कमी के कारण होता है। संतुलित आहार, पर्याप्त आराम और स्वच्छता बनाए रखना आवश्यक है। हरी सब्जियां, फल और घर का बना भोजन लाभदायक होता है। समस्या बढ़ने पर डॉक्टर से संपर्क करें।",
+      "te": "అనియత రుతుస్రావం సాధారణంగా పోషకాహార లోపం, ఒత్తిడి లేదా అవగాహన లేకపోవడం వల్ల మహిళల్లో కనిపిస్తుంది. సమతుల్య ఆహారం, సరైన విశ్రాంతి మరియు పరిశుభ్రత పాటించాలి. ఆకుకూరలు, పండ్లు మరియు ఇంటి ఆహారం ఆరోగ్యానికి మంచిది. సమస్య కొనసాగితే వైద్యుడిని సంప్రదించాలి."
+    }
+  }
+]

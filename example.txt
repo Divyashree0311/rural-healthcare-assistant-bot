@@ -1,0 +1,279 @@
+🐍 SNAKE BITE (5 CASES)
+Case 1 – Neurotoxic (Emergency)
+
+Name: Ramu
+
+Age: 35
+
+Category: Snake Bite
+
+Symptoms:
+
+Drooping eyelids → 1
+
+Difficulty breathing → 1
+
+Bleeding → 0
+
+Severe swelling → 0
+
+✅ Output: NEUROTOXIC – EMERGENCY
+
+Case 2 – Hemotoxic (Emergency)
+
+Name: Suresh
+
+Age: 42
+
+Symptoms:
+
+Bleeding from gums → 1
+
+Severe swelling → 1
+
+Breathing difficulty → 0
+
+✅ Output: HEMOTOXIC – EMERGENCY
+
+Case 3 – Mild Venomous
+
+Name: Ravi
+
+Age: 28
+
+Symptoms:
+
+Mild pain → 1
+
+Small green snake → 1
+
+No bleeding → 0
+
+✅ Output: MILD_VENOMOUS
+
+Case 4 – Non-Venomous
+
+Name: Mohan
+
+Age: 30
+
+Symptoms:
+
+No pain → 0
+
+No swelling → 0
+
+Snake ran away → 1
+
+✅ Output: NON_VENOMOUS
+
+Case 5 – Fallback
+
+Name: Kiran
+
+Age: 22
+
+Symptoms:
+
+All answers unclear → 0
+
+✅ Output: Fallback – Consult doctor
+
+👶 NEWBORN HEALTH (5 CASES)
+Case 6 – Hypothermia
+
+Name: Baby of Anitha
+
+Age: 5 days
+
+Symptoms:
+
+Baby feels cold → 1
+
+Poor feeding → 1
+
+✅ Output: HYPOTHERMIA – URGENT
+
+Case 7 – Neonatal Fever
+
+Age: 10 days
+
+Symptoms:
+
+Fever → 1
+
+Crying continuously → 1
+
+✅ Output: NEONATAL_FEVER – EMERGENCY
+
+Case 8 – Umbilical Infection
+
+Age: 7 days
+
+Symptoms:
+
+Redness at navel → 1
+
+Pus discharge → 1
+
+✅ Output: UMBILICAL_INFECTION
+
+Case 9 – Jaundice
+
+Age: 3 days
+
+Symptoms:
+
+Yellow eyes → 1
+
+Feeding okay → 1
+
+✅ Output: JAUNDICE
+
+Case 10 – Fallback
+
+Age: 15 days
+
+Symptoms:
+
+All answers → 0
+
+✅ Output: Fallback
+
+👩 WOMEN’S HEALTH (5 CASES)
+Case 11 – Anemia
+
+Name: Lakshmi
+
+Age: 29
+
+Symptoms:
+
+Weakness → 1
+
+Dizziness → 1
+
+✅ Output: ANEMIA
+
+Case 12 – Painful Periods
+
+Name: Swathi
+
+Age: 24
+
+Symptoms:
+
+Severe pain during periods → 1
+
+✅ Output: PAINFUL_PERIODS
+
+Case 13 – White Discharge
+
+Name: Radha
+
+Age: 32
+
+Symptoms:
+
+White discharge → 1
+
+Itching → 1
+
+✅ Output: WHITE_DISCHARGE
+
+Case 14 – Heavy Bleeding
+
+Name: Meena
+
+Age: 38
+
+Symptoms:
+
+Excess bleeding → 1
+
+Weakness → 1
+
+✅ Output: HEAVY_BLEEDING
+
+Case 15 – Fallback
+
+Name: Pooja
+
+Age: 21
+
+Symptoms:
+
+All answers → 0
+
+✅ Output: Fallback
+
+🤕 INJURY / RURAL HEALTH (5 CASES)
+Case 16 – Heat Exhaustion
+
+Name: Raghav
+
+Age: 45
+
+Symptoms:
+
+Excess sweating → 1
+
+Dizziness → 1
+
+✅ Output: HEAT_EXHAUSTION
+
+Case 17 – Minor Burn
+
+Name: Sunitha
+
+Age: 34
+
+Symptoms:
+
+Small burn → 1
+
+No blister → 1
+
+✅ Output: MINOR_BURN
+
+Case 18 – Diarrhea
+
+Name: Hari
+
+Age: 40
+
+Symptoms:
+
+Loose motions → 1
+
+Dehydration → 1
+
+✅ Output: DIARRHEA
+
+Case 19 – Viral Fever
+
+Name: Ramu
+
+Age: 39
+
+Symptoms:
+
+Fever → 1
+
+Body pain → 1
+
+✅ Output: VIRAL_FEVER
+
+Case 20 – Diabetes Alert
+
+Name: Shankar
+
+Age: 55
+
+Symptoms:
+
+Frequent urination → 1
+
+High sugar → 1
+
+✅ Output: DIABETES – ADVICE GIVEN

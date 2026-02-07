@@ -1,0 +1,6 @@
+question_id,question_en,question_hi,question_te,condition_code,weight
+W1,"Are your periods very painful?","क्या माहवारी में बहुत दर्द होता है?","రుతుస్రావం చాలా బాధాకరంగా ఉందా?",painful_periods,1.0
+W2,"Is menstrual bleeding heavier than normal?","क्या सामान्य से ज्यादा खून बहता है?","సాధారణం కంటే ఎక్కువ రక్తస్రావం ఉందా?",heavy_bleeding,1.0
+W3,"Are your periods irregular or delayed?","क्या माहवारी अनियमित या देर से आती है?","రుతుస్రావం సరిగా రావడం లేదా?",irregular_periods,0.9
+W4,"Is there white discharge with itching or bad smell?","क्या सफेद पानी में खुजली या बदबू है?","తెల్లని స్రావంతో దురద లేదా వాసన ఉందా?",white_discharge,1.0
+W5,"Do you often feel weakness, tiredness, or dizziness?","क्या कमजोरी, थकान या चक्कर आते हैं?","తరచూ బలహీనత లేదా తలనెక్కుతుందా?",anemia,0.9

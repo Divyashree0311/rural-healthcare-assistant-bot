@@ -1,0 +1,3102 @@
+[
+  {
+    "_id": "NB_001",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_002",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_003",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_004",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_005",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_006",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_007",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_008",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_009",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_010",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_011",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_012",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_013",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_014",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_015",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_016",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_017",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_018",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_019",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_020",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_021",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_022",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_023",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_024",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_025",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_026",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_027",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_028",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_029",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_030",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_031",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_032",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_033",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_034",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_035",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_036",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_037",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_038",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_039",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_040",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_041",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_042",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_043",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_044",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_045",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_046",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_047",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_048",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_049",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_050",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "moderate",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_051",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_052",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_053",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_054",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_055",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_056",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_057",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_058",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_059",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_060",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_061",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_062",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_063",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_064",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_065",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_066",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_067",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_068",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_069",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_070",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_071",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_072",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_073",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_074",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_075",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_076",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_077",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_078",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_079",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_080",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_081",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_082",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_083",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_084",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_085",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_086",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_087",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_088",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_089",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_090",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_091",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "neonatal_fever",
+      "name": {
+        "en": "Neonatal Fever",
+        "hi": "नवजात बुखार",
+        "te": "నవజాత జ్వరం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Infection control",
+      "hi": "Infection control",
+      "te": "Infection control"
+    },
+    "advice": {
+      "en": "Neonatal Fever is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नवजात बुखार नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నవజాత జ్వరం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_092",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "hypothermia",
+      "name": {
+        "en": "Low Body Temperature",
+        "hi": "कम शरीर तापमान",
+        "te": "తక్కువ శరీర ఉష్ణోగ్రత"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Warmth",
+      "hi": "Warmth",
+      "te": "Warmth"
+    },
+    "advice": {
+      "en": "Low Body Temperature is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम शरीर तापमान नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ శరీర ఉష్ణోగ్రత నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_093",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "cord_infection",
+      "name": {
+        "en": "Umbilical Cord Infection",
+        "hi": "नाभि संक्रमण",
+        "te": "నాభి సంక్రమణ"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hygiene",
+      "hi": "Hygiene",
+      "te": "Hygiene"
+    },
+    "advice": {
+      "en": "Umbilical Cord Infection is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नाभि संक्रमण नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నాభి సంక్రమణ నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_094",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "poor_feeding",
+      "name": {
+        "en": "Poor Feeding",
+        "hi": "दूध न पीना",
+        "te": "పాలు తాగకపోవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Energy, Sugar",
+      "hi": "Energy, Sugar",
+      "te": "Energy, Sugar"
+    },
+    "advice": {
+      "en": "Poor Feeding is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "दूध न पीना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "పాలు తాగకపోవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_095",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "fast_breathing",
+      "name": {
+        "en": "Fast Breathing",
+        "hi": "तेज सांस",
+        "te": "వేగంగా శ్వాస"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Fast Breathing is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "तेज सांस नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "వేగంగా శ్వాస నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_096",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "blue_baby",
+      "name": {
+        "en": "Blue Lips or Nails",
+        "hi": "नीले होंठ",
+        "te": "నీలి పెదాలు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Oxygen",
+      "hi": "Oxygen",
+      "te": "Oxygen"
+    },
+    "advice": {
+      "en": "Blue Lips or Nails is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "नीले होंठ नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "నీలి పెదాలు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_097",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "diaper_rash",
+      "name": {
+        "en": "Diaper Rash",
+        "hi": "डायपर रैश",
+        "te": "డైపర్ దద్దుర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Skin care",
+      "hi": "Skin care",
+      "te": "Skin care"
+    },
+    "advice": {
+      "en": "Diaper Rash is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "डायपर रैश नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "డైపర్ దద్దుర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_098",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "colic",
+      "name": {
+        "en": "Colic",
+        "hi": "अत्यधिक रोना",
+        "te": "ఎక్కువగా ఏడవడం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Burping",
+      "hi": "Burping",
+      "te": "Burping"
+    },
+    "advice": {
+      "en": "Colic is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "अत्यधिक रोना नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "ఎక్కువగా ఏడవడం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_099",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "low_urine",
+      "name": {
+        "en": "Low Urine Output",
+        "hi": "कम पेशाब",
+        "te": "తక్కువ మూత్రం"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Hydration",
+      "hi": "Hydration",
+      "te": "Hydration"
+    },
+    "advice": {
+      "en": "Low Urine Output is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "कम पेशाब नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "తక్కువ మూత్రం నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  },
+  {
+    "_id": "NB_100",
+    "model_id": 2,
+    "category": {
+      "code": "newborn_health",
+      "name": {
+        "en": "Newborn Health (0–28 days)",
+        "hi": "नवजात शिशु स्वास्थ्य",
+        "te": "నవజాత శిశు ఆరోగ్యం"
+      }
+    },
+    "condition": {
+      "code": "physiological_jaundice",
+      "name": {
+        "en": "Physiological Jaundice",
+        "hi": "शारीरिक पीलिया",
+        "te": "శారీరక పసుపు కామెర్లు"
+      }
+    },
+    "severity": "emergency",
+    "risk_factor": {
+      "en": "Immature liver",
+      "hi": "Immature liver",
+      "te": "Immature liver"
+    },
+    "advice": {
+      "en": "Physiological Jaundice is commonly seen in newborn babies due to immature body systems or infections. Parents should keep the baby warm, ensure exclusive breastfeeding, and maintain strict hand hygiene. Do not give home medicines, water, or traditional remedies. If symptoms worsen, feeding reduces, breathing becomes fast, or baby becomes inactive, immediate medical care is required.",
+      "hi": "शारीरिक पीलिया नवजात शिशुओं में शरीर की अपरिपक्वता या संक्रमण के कारण हो सकता है। बच्चे को गर्म रखें, केवल मां का दूध दें और स्वच्छता बनाए रखें। कोई घरेलू दवा न दें। यदि बच्चा दूध न पिए, सांस तेज हो या सुस्त लगे तो तुरंत डॉक्टर को दिखाएं।",
+      "te": "శారీరక పసుపు కామెర్లు నవజాత శిశువుల్లో శరీర వ్యవస్థలు పూర్తిగా అభివృద్ధి కాకపోవడం లేదా సంక్రమణల వల్ల రావచ్చు. శిశువును వెచ్చగా ఉంచాలి, పూర్తిగా తల్లిపాలే ఇవ్వాలి మరియు శుభ్రత పాటించాలి. ఇంటి మందులు ఇవ్వకూడదు. లక్షణాలు పెరిగితే వెంటనే వైద్యుడిని సంప్రదించాలి."
+    }
+  }
+]

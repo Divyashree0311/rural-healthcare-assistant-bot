@@ -1,0 +1,6 @@
+question_id,question_en,question_hi,question_te,condition_code,weight
+R1,"Do you have runny nose, sneezing, or mild fever?","क्या नाक बहना, छींक या हल्का बुखार है?","ముక్కు కారడం, తుమ్ములు లేదా స్వల్ప జ్వరం ఉందా?",common_cold,0.7
+R2,"Do you have loose motions more than three times a day?","क्या दिन में तीन से ज्यादा बार दस्त हो रहे हैं?","రోజుకు మూడుసార్లకు మించి విరేచనాలు అవుతున్నాయా?",diarrhea,1.0
+R3,"Have you been diagnosed with diabetes or high sugar?","क्या आपको मधुमेह या शुगर की बीमारी है?","మీకు మధుమేహం లేదా చక్కెర వ్యాధి ఉందా?",diabetes,0.8
+R4,"Do you have fever with body pain or chills?","क्या बुखार के साथ शरीर दर्द या कंपकंपी है?","జ్వరం తో పాటు శరీర నొప్పి లేదా వణుకు ఉందా?",viral_fever,0.9
+R5,"Was there a snake bite?","क्या सांप ने काटा है?","పాము కాటేసిందా?",snake_bite,1.0

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rural Health Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Rural Health Assistant</h1>
+
+    <div class="top-form">
+        <input id="name" placeholder="Name">
+        <input id="age" type="number" placeholder="Age">
+        <select id="lang">
+            <option value="en">English</option>
+            <option value="hi">Hindi</option>
+            <option value="te">Telugu</option>
+        </select>
+        <select id="category">
+            <option value="snake">Snake Bite</option>
+            <option value="newborn">Newborn</option>
+            <option value="women">Women Health</option>
+            <option value="injury">Injury</option>
+            <option value="rural_health">Rural Diseases</option>
+        </select>
+        <button onclick="start()">Start</button>
+    </div>
+
+    <div id="chat"></div>
+</div>
+
+<script src="/static/chat.js"></script>
+</body>
+</html>

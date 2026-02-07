@@ -1,0 +1,2602 @@
+[
+  {
+    "_id": "KB_001",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_002",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_003",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_004",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_005",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_006",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_007",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_008",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_009",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_010",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_011",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_012",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_013",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_014",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_015",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_016",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_017",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_018",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_019",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_020",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_021",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_022",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_023",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_024",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_025",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_026",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_027",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_028",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_029",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_030",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_031",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_032",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_033",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_034",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_035",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_036",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_037",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_038",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_039",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_040",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_041",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_042",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_043",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_044",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_045",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_046",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_047",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_048",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_049",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_050",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_051",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_052",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_053",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_054",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_055",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_056",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_057",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_058",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_059",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_060",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_061",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_062",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_063",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_064",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_065",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_066",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_067",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_068",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_069",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_070",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_071",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_072",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_073",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_074",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_075",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_076",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_077",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_078",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_079",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_080",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_081",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_082",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_083",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_084",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_085",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_086",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_087",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_088",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_089",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_090",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_091",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_092",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_093",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_094",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_095",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_096",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_097",
+    "model_id": 1,
+    "category": {
+      "code": "శ్వాసకోశ_సంక్రమణ",
+      "name": {
+        "en": "శ్వాసకోశ సంక్రమణ",
+        "hi": "श्वसन संक्रमण",
+        "te": "శ్వాసకోశ సంక్రమణ"
+      }
+    },
+    "condition": {
+      "code": "common_cold",
+      "name": {
+        "en": "Common Cold",
+        "hi": "सामान्य सर्दी",
+        "te": "సాధారణ జలుబు"
+      }
+    },
+    "severity": "low",
+    "advice": {
+      "en": "Rest well, drink warm fluids like water, soup, or herbal tea. Steam inhalation helps reduce nasal blockage. Avoid cold drinks and dust. If fever lasts more than 3 days or breathing becomes difficult, consult a doctor.",
+      "hi": "पर्याप्त आराम करें और गर्म पानी, सूप या हर्बल चाय पिएं। भाप लेने से नाक की रुकावट कम होती है। ठंडे पेय और धूल से बचें। यदि बुखार 3 दिन से अधिक रहे या सांस लेने में दिक्कत हो तो डॉक्टर से मिलें।",
+      "te": "సరిపడా విశ్రాంతి తీసుకుని గోరువెచ్చని నీరు, సూప్ లేదా హర్బల్ టీ త్రాగండి. ఆవిరి పీల్చడం ముక్కు దిబ్బడ తగ్గిస్తుంది. చల్లని పానీయాలు, దుమ్ము దూరంగా ఉంచండి. 3 రోజులకు మించి జ్వరం ఉంటే లేదా శ్వాస ఇబ్బంది ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_098",
+    "model_id": 1,
+    "category": {
+      "code": "జీర్ణ_సమస్య",
+      "name": {
+        "en": "జీర్ణ సమస్య",
+        "hi": "పाचन रोग",
+        "te": "జీర్ణ సమస్య"
+      }
+    },
+    "condition": {
+      "code": "diarrhea",
+      "name": {
+        "en": "Diarrhea",
+        "hi": "दस्त",
+        "te": "విరేచనాలు"
+      }
+    },
+    "severity": "medium",
+    "advice": {
+      "en": "Drink ORS frequently to prevent dehydration. Eat light foods like rice, banana, and curd. Avoid oily and street food. If diarrhea lasts more than 2 days, has blood, or fever, visit a health center.",
+      "hi": "निर्जलीकरण से बचने के लिए बार-बार ओआरएस पिएं। चावल, केला और दही जैसे हल्के भोजन करें। तला हुआ और बाहर का खाना न खाएं। 2 दिन से अधिक दस्त हों, खून आए या बुखार हो तो अस्पताल जाएं।",
+      "te": "శరీరంలో నీటి లోపం రాకుండా తరచుగా ORS త్రాగండి. అన్నం, అరటిపండు, పెరుగు వంటి తేలికపాటి ఆహారం తీసుకోండి. నూనె పదార్థాలు, బయట ఆహారం మానండి. 2 రోజులకు మించి ఉంటే, రక్తం లేదా జ్వరం ఉంటే ఆసుపత్రికి వెళ్లండి."
+    }
+  },
+  {
+    "_id": "KB_099",
+    "model_id": 1,
+    "category": {
+      "code": "దీర్ఘకాలిక_వ్యాధి",
+      "name": {
+        "en": "దీర్ఘకాలిక వ్యాధి",
+        "hi": "दीर्घకాలिक रोग",
+        "te": "దీర్ఘకాలిక వ్యాధి"
+      }
+    },
+    "condition": {
+      "code": "diabetes",
+      "name": {
+        "en": "Diabetes",
+        "hi": "मधुमेह",
+        "te": "మధుమేహం"
+      }
+    },
+    "severity": "high",
+    "advice": {
+      "en": "Control diet by reducing sugar and refined foods. Eat balanced meals with vegetables and whole grains. Walk daily for at least 30 minutes. Check blood sugar regularly and consult a doctor if levels remain high.",
+      "hi": "चीनी और मैदा से बने खाद्य पदार्थ कम करें। सब्जियों और साबुत अनाज के साथ संतुलित भोजन करें। रोज 30 मिनट टहलें। नियमित शुगर जांच कराएं और ज्यादा रहने पर डॉक्टर से मिलें।",
+      "te": "చక్కెర మరియు మైదా ఆహారం తగ్గించండి. కూరగాయలు, సంపూర్ణ ధాన్యాలతో సమతుల ఆహారం తీసుకోండి. రోజూ 30 నిమిషాలు నడవండి. రక్తంలో చక్కెరను తరచూ పరీక్షించించండి, ఎక్కువగా ఉంటే వైద్యుడిని సంప్రదించండి."
+    }
+  },
+  {
+    "_id": "KB_100",
+    "model_id": 1,
+    "category": {
+      "code": "జంతువు_కాటు",
+      "name": {
+        "en": "జంతువు కాటు",
+        "hi": "पशु का काटना",
+        "te": "జంతువు కాటు"
+      }
+    },
+    "condition": {
+      "code": "snake_bite",
+      "name": {
+        "en": "Snake Bite",
+        "hi": "सांप का काटना",
+        "te": "పాము కాటు"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a medical emergency. Do not cut or suck the wound. Keep the person calm and still. Remove tight items and rush to the nearest hospital for anti-venom treatment.",
+      "hi": "यह एक आपात स्थिति है। घाव को न काटें और न चूसें। मरीज को शांत और स्थिर रखें। कड़े आभूषण हटाएं और तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది అత్యవసర పరిస్థితి. గాయాన్ని కోయకండి లేదా చీకవద్దు. బాధితుడిని ప్రశాంతంగా ఉంచండి. బిగుతైన వస్తువులు తీసేసి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  }
+]

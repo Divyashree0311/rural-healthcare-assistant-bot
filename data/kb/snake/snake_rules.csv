@@ -1,0 +1,7 @@
+question_id,question_en,question_hi,question_te,condition_code,weight
+S1,"Is there drooping of eyelids or difficulty opening eyes?","क्या पलकें झुक रही हैं या आंखें खोलने में कठिनाई है?","కంటి పలకలు వాలుతున్నాయా లేదా కళ్ళు తెరవడంలో ఇబ్బంది ఉందా?",NEUROTOXIC,1.0
+S2,"Is there difficulty in breathing or speaking?","क्या सांस लेने या बोलने में कठिनाई है?","శ్వాస తీసుకోవడంలో లేదా మాట్లాడడంలో ఇబ్బంది ఉందా?",NEUROTOXIC,1.0
+S3,"Is there bleeding from the bite or gums?","क्या काटने की जगह या मसूड़ों से खून आ रहा है?","కాటు ప్రాంతం లేదా పళ్ళ ముడి నుంచి రక్తం వస్తుందా?",HEMOTOXIC,1.0
+S4,"Is there severe swelling or intense pain?","क्या तेज सूजन या बहुत दर्द है?","తీవ్ర వాపు లేదా తీవ్రమైన నొప్పి ఉందా?",HEMOTOXIC,0.9
+S5,"Was the snake small, thin, and green?","क्या सांप छोटा, पतला और हरा था?","పాము చిన్నగా, పలుచగా మరియు ఆకుపచ్చగా ఉందా?",MILD_VENOMOUS,0.7
+S6,"Was the snake large and slow moving?","क्या सांप बड़ा और धीरे चलने वाला था?","పాము పెద్దగా మరియు నెమ్మదిగా కదులుతుందా?",NON_VENOMOUS,0.8

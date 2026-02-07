@@ -1,0 +1,2602 @@
+[
+  {
+    "_id": "KB_001",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_1",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_002",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_2",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_003",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_3",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_004",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_4",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_005",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_5",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_006",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_6",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_007",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_7",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_008",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_8",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_009",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_9",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_010",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_10",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_011",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_11",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_012",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_12",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_013",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_13",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_014",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_14",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_015",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_15",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_016",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_16",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_017",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_17",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_018",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_18",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_019",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_19",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_020",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_20",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_021",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_21",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_022",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_22",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_023",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_23",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_024",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_24",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_025",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_25",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_026",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_26",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_027",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_27",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_028",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_28",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_029",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_29",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_030",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_30",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_031",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_31",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_032",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_32",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_033",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_33",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_034",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_34",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_035",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_35",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_036",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_36",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_037",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_37",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_038",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_38",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_039",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_39",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_040",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_40",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_041",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_41",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_042",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_42",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_043",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_43",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_044",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_44",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_045",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_45",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_046",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_46",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_047",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_47",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_048",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_48",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_049",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_49",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_050",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_50",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_051",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_51",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_052",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_52",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_053",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_53",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_054",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_54",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_055",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_55",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_056",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_56",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_057",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_57",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_058",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_58",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_059",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_59",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_060",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_60",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_061",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_61",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_062",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_62",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_063",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_63",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_064",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_64",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_065",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_65",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_066",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_66",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_067",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_67",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_068",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_68",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_069",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_69",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_070",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_70",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_071",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_71",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_072",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_72",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_073",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_73",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_074",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_74",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_075",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_75",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_076",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_76",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_077",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_77",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_078",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_78",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_079",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_79",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_080",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_80",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_081",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_81",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_082",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_82",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_083",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_83",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_084",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_84",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_085",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_85",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_086",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_86",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_087",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_87",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_088",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_88",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_089",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_89",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_090",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_90",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_091",
+    "model_id": 1,
+    "category": {
+      "code": "minor_burn",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "condition": {
+      "code": "minor_burn_91",
+      "name": {
+        "en": "Minor Burn",
+        "hi": "हल्का जलना",
+        "te": "స్వల్ప కాలుడు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_092",
+    "model_id": 1,
+    "category": {
+      "code": "blister",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "condition": {
+      "code": "blister_92",
+      "name": {
+        "en": "Foot Blister",
+        "hi": "पैर में छाला",
+        "te": "కాలి పుండ్లు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_093",
+    "model_id": 1,
+    "category": {
+      "code": "back_pain",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "back_pain_93",
+      "name": {
+        "en": "Back Pain",
+        "hi": "कमर दर्द",
+        "te": "నడుము నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_094",
+    "model_id": 1,
+    "category": {
+      "code": "neck_pain",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "condition": {
+      "code": "neck_pain_94",
+      "name": {
+        "en": "Neck Pain",
+        "hi": "गर्दन दर्द",
+        "te": "మెడ నొప్పి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_095",
+    "model_id": 1,
+    "category": {
+      "code": "insect_bite",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "condition": {
+      "code": "insect_bite_95",
+      "name": {
+        "en": "Insect Bite",
+        "hi": "कीड़े का काटना",
+        "te": "పురుగు కాటు"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_096",
+    "model_id": 1,
+    "category": {
+      "code": "dehydration",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "condition": {
+      "code": "dehydration_96",
+      "name": {
+        "en": "Dehydration",
+        "hi": "पानी की कमी",
+        "te": "శరీరంలో నీరు తక్కువ"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_097",
+    "model_id": 1,
+    "category": {
+      "code": "heat_exhaustion",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "condition": {
+      "code": "heat_exhaustion_97",
+      "name": {
+        "en": "Heat Exhaustion",
+        "hi": "लू लगना",
+        "te": "వేడిమి అలసట"
+      }
+    },
+    "severity": "emergency",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_098",
+    "model_id": 1,
+    "category": {
+      "code": "ankle_sprain",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "condition": {
+      "code": "ankle_sprain_98",
+      "name": {
+        "en": "Ankle Sprain",
+        "hi": "टखने में मोच",
+        "te": "కాలి మడమ మోచేయి"
+      }
+    },
+    "severity": "moderate",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_099",
+    "model_id": 1,
+    "category": {
+      "code": "eye_dust",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "condition": {
+      "code": "eye_dust_99",
+      "name": {
+        "en": "Dust in Eye",
+        "hi": "आँख में धूल",
+        "te": "కంట్లో ధూళి"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  },
+  {
+    "_id": "KB_100",
+    "model_id": 1,
+    "category": {
+      "code": "minor_cut",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "condition": {
+      "code": "minor_cut_100",
+      "name": {
+        "en": "Minor Cut",
+        "hi": "छोटा कट",
+        "te": "చిన్న కోత"
+      }
+    },
+    "severity": "mild",
+    "advice": {
+      "en": "Clean the affected area properly and give rest. Use clean water for washing. Avoid harmful home practices. If pain, swelling, fever, pus, or difficulty increases or lasts more than 2–3 days, visit the nearest hospital or PHC immediately.",
+      "hi": "प्रभावित स्थान को अच्छी तरह साफ करें और आराम दें। साफ पानी से धोएं। गलत घरेलू उपाय न करें। यदि दर्द, सूजन, बुखार, पस या परेशानी 2–3 दिन से अधिक रहे तो तुरंत नजदीकी अस्पताल या पीएचसी जाएं।",
+      "te": "బాధిత ప్రాంతాన్ని శుభ్రంగా కడిగి విశ్రాంతి ఇవ్వాలి. శుభ్రమైన నీటితో శుభ్రం చేయాలి. హానికరమైన ఇంటి చిట్కాలు ఉపయోగించకూడదు. 2–3 రోజులకు మించిన నొప్పి, వాపు, జ్వరం లేదా పుస్ ఉంటే వెంటనే సమీప ఆసుపత్రి లేదా పీహెచ్సీకి వెళ్లాలి."
+    }
+  }
+]

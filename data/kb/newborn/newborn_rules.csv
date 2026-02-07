@@ -1,0 +1,11 @@
+question_id,question_en,question_hi,question_te,condition_code,weight
+N1,"Does the baby have fever?","क्या बच्चे को बुखार है?","బిడ్డకు జ్వరం ఉందా?",neonatal_fever,1.0
+N2,"Is the baby cold to touch?","क्या बच्चा छूने पर ठंडा लगता है?","బిడ్డ చల్లగా అనిపిస్తున్నాడా?",hypothermia,1.0
+N3,"Is there redness or pus near the umbilical cord?","क्या नाभि के पास लालिमा या पस है?","నాభి దగ్గర ఎరుపు లేదా పుస్ ఉందా?",umbilical_infection,1.0
+N4,"Is the baby feeding less than usual?","क्या बच्चा कम दूध पी रहा है?","బిడ్డ సాధారణం కంటే తక్కువగా తాగుతున్నాడా?",poor_feeding,0.9
+N5,"Is the baby breathing faster than normal?","क्या बच्चा सामान्य से तेज सांस ले रहा है?","బిడ్డ సాధారణం కంటే వేగంగా శ్వాస తీసుకుంటున్నాడా?",fast_breathing,1.0
+N6,"Are the baby’s lips or nails bluish?","क्या बच्चे के होंठ या नाखून नीले हैं?","బిడ్డ పెదాలు లేదా గోళ్ళు నీలంగా ఉన్నాయా?",cyanosis,1.0
+N7,"Is there redness or rash in the diaper area?","क्या डायपर क्षेत्र में लाल चकत्ते हैं?","డైపర్ ప్రాంతంలో ఎరుపు లేదా దద్దుర్లు ఉన్నాయా?",diaper_rash,0.8
+N8,"Is the baby crying excessively for long periods?","क्या बच्चा बहुत देर तक रो रहा है?","బిడ్డ ఎక్కువసేపు ఏడుస్తున్నాడా?",excessive_crying,0.7
+N9,"Is the baby passing very little urine?","क्या बच्चा बहुत कम पेशाब कर रहा है?","బిడ్డ చాలా తక్కువ మూత్రం విడిచాడా?",dehydration,0.9
+N10,"Does the baby have yellow eyes or skin?","क्या बच्चे की आंखें या त्वचा पीली हैं?","బిడ్డ కళ్ళు లేదా చర్మం పసుపుగా ఉందా?",jaundice,0.8

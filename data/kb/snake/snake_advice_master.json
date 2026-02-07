@@ -1,0 +1,39 @@
+
+[
+  {
+    "advice_code": "NEUROTOXIC",
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a life-threatening neurotoxic snake bite caused by snakes like cobra, krait, coral snake, and sea snake. Neurotoxic venom affects nerves and muscles and can slowly stop breathing. Keep the patient calm and completely still. Do not allow walking or running. Immobilize the bitten limb and keep it below heart level. Remove rings, bangles, anklets, or tight clothing. Watch for drooping eyelids, blurred vision, slurred speech, difficulty swallowing, or breathing trouble. Do NOT cut, suck, massage, or apply tourniquet. Do NOT apply ice, turmeric, oil, herbs, or chemicals. Do NOT give alcohol or home remedies. Take the patient immediately to the nearest hospital. Antivenom is the only effective treatment. Hospital observation for at least 24 hours is mandatory even if symptoms are mild.",
+      "hi": "यह जानलेवा न्यूरोटॉक्सिक सांप का काटना है। मरीज को शांत और स्थिर रखें और तुरंत अस्पताल ले जाएं। एंटीवेनम ही इलाज है।",
+      "te": "ఇది ప్రాణాపాయ న్యూరోటాక్సిక్ పాము కాటు. బాధితుడిని నిశ్చలంగా ఉంచి వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "advice_code": "HEMOTOXIC",
+    "severity": "emergency",
+    "advice": {
+      "en": "This is a hemotoxic snake bite caused by vipers. The venom damages blood, tissues, and kidneys. Immediate hospital treatment is required.",
+      "hi": "यह हेमोटॉक्सिक सांप का काटना है। तुरंत अस्पताल ले जाएं।",
+      "te": "ఇది హీమోటాక్సిక్ పాము కాటు. వెంటనే ఆసుపత్రికి తీసుకెళ్లండి."
+    }
+  },
+  {
+    "advice_code": "MILD_VENOMOUS",
+    "severity": "moderate",
+    "advice": {
+      "en": "This snake is mildly venomous and usually not life-threatening. Clean the wound and observe symptoms.",
+      "hi": "यह हल्का विषैला सांप है। घाव को साफ करें।",
+      "te": "ఇది తేలికపాటి విషం ఉన్న పాము."
+    }
+  },
+  {
+    "advice_code": "NON_VENOMOUS",
+    "severity": "low",
+    "advice": {
+      "en": "This snake is non-venomous. Clean the wound and apply antiseptic.",
+      "hi": "यह बिना ज़हर वाला सांप है।",
+      "te": "ఇది విషం లేని పాము."
+    }
+  }
+]

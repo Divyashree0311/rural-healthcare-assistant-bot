@@ -1,0 +1,13 @@
+
+[
+  {"_id":"S1","name":"Indian Cobra","scientific":"Naja naja","advice_code":"NEUROTOXIC"},
+  {"_id":"S2","name":"King Cobra","scientific":"Ophiophagus hannah","advice_code":"NEUROTOXIC"},
+  {"_id":"S3","name":"Common Krait","scientific":"Bungarus caeruleus","advice_code":"NEUROTOXIC"},
+  {"_id":"S4","name":"Banded Krait","scientific":"Bungarus fasciatus","advice_code":"NEUROTOXIC"},
+  {"_id":"S5","name":"Russell’s Viper","scientific":"Daboia russelii","advice_code":"HEMOTOXIC"},
+  {"_id":"S6","name":"Saw-scaled Viper","scientific":"Echis carinatus","advice_code":"HEMOTOXIC"},
+  {"_id":"S7","name":"Green Vine Snake","scientific":"Ahaetulla nasuta","advice_code":"MILD_VENOMOUS"},
+  {"_id":"S8","name":"Indian Rat Snake","scientific":"Ptyas mucosa","advice_code":"NON_VENOMOUS"},
+  {"_id":"S9","name":"Indian Rock Python","scientific":"Python molurus","advice_code":"NON_VENOMOUS"},
+  {"_id":"S10","name":"Blind Snake","scientific":"Indotyphlops braminus","advice_code":"NON_VENOMOUS"}
+]

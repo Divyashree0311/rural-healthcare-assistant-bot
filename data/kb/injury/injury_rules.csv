@@ -1,0 +1,11 @@
+question_id,question_en,question_hi,question_te,condition_code,weight
+I1,"Is there a burn caused by fire, hot water, or heat?","क्या आग या गर्म चीज़ से जलन हुई है?","మంట లేదా వేడి వల్ల కాలిందా?",minor_burn,0.9
+I2,"Is there a fluid-filled blister on the foot or skin?","क्या पैर या त्वचा पर छाला है?","కాలి లేదా చర్మంపై బుడగ ఉందా?",blister,0.8
+I3,"Do you have pain in the lower back?","क्या कमर में दर्द है?","నడుము నొప్పి ఉందా?",back_pain,0.7
+I4,"Do you have pain or stiffness in the neck?","क्या गर्दन में दर्द या अकड़न है?","మెడ నొప్పి లేదా గట్టితనం ఉందా?",neck_pain,0.7
+I5,"Is there redness, swelling, or itching after an insect bite?","क्या कीड़े के काटने से सूजन या खुजली है?","పురుగు కాటు తర్వాత వాపు లేదా దురద ఉందా?",insect_bite,0.8
+I6,"Are you feeling very thirsty, weak, or passing less urine?","क्या बहुत प्यास, कमजोरी या कम पेशाब हो रहा है?","ఎక్కువ దాహం, బలహీనత లేదా తక్కువ మూత్రం ఉందా?",dehydration,0.9
+I7,"Do you feel extreme weakness, dizziness, or fainting due to heat?","क्या गर्मी से चक्कर या बेहोशी लग रही है?","వేడిమి వల్ల తలనెక్కడం లేదా మూర్చ ఉందా?",heat_exhaustion,1.0
+I8,"Is there swelling or pain after twisting the ankle?","क्या टखना मुड़ने के बाद सूजन या दर्द है?","కాలి మడమ తిరిగిన తర్వాత నొప్పి లేదా వాపు ఉందా?",ankle_sprain,0.9
+I9,"Is there dust or a foreign object in the eye causing irritation?","क्या आंख में धूल या कुछ फंसा है?","కంట్లో ధూళి లేదా ఏదైనా ఇరుక్కుందా?",eye_dust,0.8
+I10,"Is there a small cut or open wound on the skin?","क्या त्वचा पर छोटा कट या घाव है?","చర్మంపై చిన్న కోత లేదా గాయం ఉందా?",minor_cut,0.8
