@@ -1,60 +1,78 @@
 from flask import Flask, render_template, request, jsonify
 import sys
 from pathlib import Path
+import os
 
-# ------------------------------
-# Fix Python path (VERY IMPORTANT)
-# ------------------------------
-ROOT = Path(__file__).resolve().parent.parent
-sys.path.append(str(ROOT))
+# -------------------------------------------------
+# FIX PYTHON PATH (VERY IMPORTANT FOR RENDER)
+# -------------------------------------------------
+ROOT_DIR = Path(__file__).resolve().parent.parent
+sys.path.append(str(ROOT_DIR))
 
+# -------------------------------------------------
+# Project imports
+# -------------------------------------------------
 from core.question_engine import load_questions
 from core.inference_engine import infer_condition
 from core.advice_engine import get_advice
 from db.mongo import save_session
 
-app = Flask(__name__)
+# -------------------------------------------------
+# Flask app
+# -------------------------------------------------
+app = Flask(__name__, template_folder="templates", static_folder="static")
 
-# ------------------------------
-# Home page
-# ------------------------------
-@app.route("/")
+# -------------------------------------------------
+# Home page (Website Chat UI)
+# -------------------------------------------------
+@app.route("/", methods=["GET"])
 def index():
     return render_template("chat.html")
 
-# ------------------------------
-# Load questions
-# ------------------------------
+# -------------------------------------------------
+# Load questions for selected category + language
+# -------------------------------------------------
 @app.route("/questions", methods=["POST"])
 def questions():
-    data = request.json
+    data = request.get_json(force=True)
+
     category = data.get("category")
     lang = data.get("lang", "en")
 
+    if not category:
+        return jsonify({"error": "Category missing"}), 400
+
     qs = load_questions(category)
 
-    result = []
+    response = []
     for q in qs:
-        result.append({
+        response.append({
             "id": q["question_id"],
             "text": q.get(f"question_{lang}", q["question_en"])
         })
 
-    return jsonify(result)
+    return jsonify(response)
 
-# ------------------------------
-# Submit answers
-# ------------------------------
+# -------------------------------------------------
+# Submit answers and return diagnosis
+# -------------------------------------------------
 @app.route("/submit", methods=["POST"])
 def submit():
-    data = request.json
+    data = request.get_json(force=True)
 
-    # SAFE INPUT (NO CRASH)
+    # ---- SAFE INPUTS (NO CRASHES) ----
     name = data.get("name", "anonymous")
     age = int(data.get("age", 0))
     category = data.get("category")
     lang = data.get("lang", "en")
     answers = data.get("answers", {})
+
+    if not category or not answers:
+        return jsonify({
+            "condition": "fallback",
+            "severity": "unknown",
+            "advice": "Please consult the nearest hospital."
+        })
 
     questions = load_questions(category)
     condition, confidence = infer_condition(questions, answers)
@@ -63,20 +81,23 @@ def submit():
         advice, severity = get_advice(category, condition, lang)
     else:
         condition = "fallback"
-        advice = "Please consult the nearest hospital."
         severity = "unknown"
+        advice = "Please consult the nearest hospital."
 
-    # Save to DB (optional but safe)
-    save_session(
-        name=name,
-        age=age,
-        category=category,
-        answers=answers,
-        predicted_condition=condition,
-        confidence=confidence,
-        severity=severity,
-        language=lang
-    )
+    # ---- SAVE SESSION (MongoDB Atlas / Local) ----
+    try:
+        save_session(
+            name=name,
+            age=age,
+            category=category,
+            answers=answers,
+            predicted_condition=condition,
+            confidence=confidence,
+            severity=severity,
+            language=lang
+        )
+    except Exception as e:
+        print("DB save failed:", e)
 
     return jsonify({
         "condition": condition,
@@ -84,5 +105,9 @@ def submit():
         "advice": advice
     })
 
+# -------------------------------------------------
+# ENTRY POINT (RENDER + LOCAL SAFE)
+# -------------------------------------------------
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
