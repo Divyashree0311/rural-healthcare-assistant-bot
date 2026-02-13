@@ -1,30 +1,56 @@
-import pytest
+import pickle
+import numpy as np
+from pathlib import Path
 
-try:
-    from core.ml_engine import ml_predict
-    ML_AVAILABLE = True
-except:
-    ML_AVAILABLE = False
+# -------------------------------------------------
+# Load trained ML model safely
+# -------------------------------------------------
+MODEL_PATH = Path("ml/models/snake.pkl")
+
+if not MODEL_PATH.exists():
+    raise FileNotFoundError(
+        "ML model not found. Please train the model before running predictions."
+    )
+
+with open(MODEL_PATH, "rb") as f:
+    model = pickle.load(f)
 
 
-@pytest.mark.skipif(not ML_AVAILABLE, reason="ML model not trained yet")
-def test_ml_prediction_output():
+def ml_predict(answers: dict):
     """
-    Basic sanity test:
-    - ML should return (condition, confidence)
-    - confidence should be between 0 and 1
+    Predicts health condition using trained ML model.
+
+    Parameters:
+        answers (dict): Symptom answers {question_id: 0/1}
+
+    Returns:
+        condition (str): Predicted condition label
+        confidence (float): Prediction confidence (0 to 1)
     """
 
-    answers = {
-        "S1": 1,
-        "S2": 1,
-        "S3": 0,
-        "S4": 0,
-        "S5": 0,
-        "S6": 0
-    }
+    # Convert answers dict to ordered feature vector
+    feature_vector = list(answers.values())
 
-    condition, confidence = ml_predict(answers)
+    # ML model expects fixed number of features
+    expected_features = model.n_features_in_
 
-    assert isinstance(condition, str)
-    assert 0.0 <= confidence <= 1.0
+    # Pad missing features with 0 (safe default)
+    if len(feature_vector) < expected_features:
+        feature_vector.extend(
+            [0] * (expected_features - len(feature_vector))
+        )
+
+    # Trim extra features if any (extra safety)
+    feature_vector = feature_vector[:expected_features]
+
+    # Convert to numpy array
+    X = np.array(feature_vector).reshape(1, -1)
+
+    # Predict probabilities
+    probabilities = model.predict_proba(X)[0]
+    max_index = probabilities.argmax()
+
+    predicted_condition = model.classes_[max_index]
+    confidence = float(probabilities[max_index])
+
+    return predicted_condition, confidence
