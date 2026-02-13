@@ -1,13 +1,25 @@
 from pymongo import MongoClient
 from datetime import datetime
 import os
+import certifi
 
+# -------------------------------------------------
+# Mongo URI (Atlas OR Local)
+# -------------------------------------------------
 MONGO_URI = os.environ.get(
     "MONGO_URI",
-    "mongodb://localhost:27017/"
+    "mongodb://localhost:27017/"   # fallback for local dev
 )
 
-client = MongoClient(MONGO_URI)
+# -------------------------------------------------
+# IMPORTANT: TLS + Certifi fix for Atlas SSL errors
+# -------------------------------------------------
+client = MongoClient(
+    MONGO_URI,
+    tls=True,
+    tlsCAFile=certifi.where()
+)
+
 db = client["rural_health_ai"]
 collection = db.sessions
 
