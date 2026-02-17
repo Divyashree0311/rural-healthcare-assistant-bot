@@ -1,3 +1,4 @@
+import os
 from telegram import Update
 from telegram.ext import (
     Updater,
@@ -12,13 +13,18 @@ from core.inference_engine import infer_condition
 from core.advice_engine import get_advice
 from db.mongo import save_session
 
-# ---------------------------------
-# BOT TOKEN (paste yours)
-# ---------------------------------
-BOT_TOKEN = "8241628974:AAG3WWPy_XetMZUXiDpe3hkM6Jfy4VfpZOU"
 
 # ---------------------------------
-# Start command
+# SAFE TOKEN (ENV VARIABLE)
+# ---------------------------------
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+
+if not BOT_TOKEN:
+    raise ValueError("❌ BOT_TOKEN not found in environment variables")
+
+
+# ---------------------------------
+# START COMMAND
 # ---------------------------------
 def start(update: Update, context: CallbackContext):
     context.user_data.clear()
@@ -27,10 +33,12 @@ def start(update: Update, context: CallbackContext):
         "Welcome to Rural Health AI Assistant 🤖\n\n"
         "Please enter your name:"
     )
+
     context.user_data["step"] = "name"
 
+
 # ---------------------------------
-# Handle messages
+# HANDLE MESSAGES
 # ---------------------------------
 def handle_message(update: Update, context: CallbackContext):
     text = update.message.text.strip()
@@ -78,6 +86,7 @@ def handle_message(update: Update, context: CallbackContext):
             return
 
         category = cat_map[text]
+
         context.user_data["category"] = category
         context.user_data["questions"] = load_questions(category)
         context.user_data["answers"] = {}
@@ -106,20 +115,21 @@ def handle_message(update: Update, context: CallbackContext):
             ask_next_question(update, context)
         return
 
+
 # ---------------------------------
-# Ask question
+# ASK QUESTION
 # ---------------------------------
 def ask_next_question(update, context):
     q_index = context.user_data["q_index"]
     q = context.user_data["questions"][q_index]
 
     update.message.reply_text(
-        f"{q['question_en']}\n"
-        "Reply: 1 = YES, 0 = NO"
+        f"{q['question_en']}\nReply: 1 = YES, 0 = NO"
     )
 
+
 # ---------------------------------
-# Finish & result
+# FINISH RESULT
 # ---------------------------------
 def finish(update, context):
     questions = context.user_data["questions"]
@@ -142,8 +152,8 @@ def finish(update, context):
 
         save_session(
             phone_number=str(update.message.from_user.id),
-            name=context.user_data["name"],
-            age=context.user_data["age"],
+            name=context.user_data.get("name", "Unknown User"),
+            age=context.user_data.get("age", 0),
             category=context.user_data["category"],
             answers=answers,
             predicted_condition=condition,
@@ -152,13 +162,14 @@ def finish(update, context):
             language="en",
             advice=advice
         )
+
     else:
         update.message.reply_text(
-            "Unable to detect condition.\n"
-            "Please visit nearest hospital."
+            "Unable to detect condition.\nPlease visit nearest hospital."
         )
 
     context.user_data.clear()
+
 
 # ---------------------------------
 # MAIN
@@ -171,8 +182,9 @@ def main():
     dp.add_handler(MessageHandler(Filters.text & ~Filters.command, handle_message))
 
     updater.start_polling()
-    print("Telegram bot started...")
+    print("✅ Telegram bot started...")
     updater.idle()
+
 
 if __name__ == "__main__":
     main()

@@ -44,20 +44,33 @@ for col in REQUIRED_COLUMNS:
         df[col] = "N/A"
 
 # -------------------------
+# 🔥 CRITICAL FIXES (TYPE CLEANUP)
+# -------------------------
+
+# Age sometimes stored as string -> fix
+df["age"] = pd.to_numeric(df["age"], errors="coerce").fillna(0).astype(int)
+
+# Timestamp safe string conversion
+df["timestamp"] = df["timestamp"].astype(str)
+
+# Name fallback (if empty)
+df["name"] = df["name"].fillna("Unknown User")
+
+# -------------------------
 # Sidebar filters
 # -------------------------
 st.sidebar.header("🔍 Filters")
 
 category_filter = st.sidebar.multiselect(
     "Category",
-    options=df["category"].unique(),
-    default=list(df["category"].unique())
+    options=df["category"].dropna().unique(),
+    default=list(df["category"].dropna().unique())
 )
 
 severity_filter = st.sidebar.multiselect(
     "Severity",
-    options=df["severity"].unique(),
-    default=list(df["severity"].unique())
+    options=df["severity"].dropna().unique(),
+    default=list(df["severity"].dropna().unique())
 )
 
 df_filtered = df[
@@ -70,7 +83,10 @@ df_filtered = df[
 # -------------------------
 c1, c2, c3 = st.columns(3)
 c1.metric("Total Users", len(df_filtered))
-c2.metric("Emergency Cases", len(df_filtered[df_filtered["severity"] == "emergency"]))
+c2.metric(
+    "Emergency Cases",
+    len(df_filtered[df_filtered["severity"] == "emergency"])
+)
 c3.metric("Languages Used", df_filtered["language"].nunique())
 
 # -------------------------
@@ -91,7 +107,7 @@ display_columns = [
 
 st.dataframe(
     df_filtered[display_columns],
-    use_container_width=True
+    width="stretch"   # ✅ NEW STREAMLIT FORMAT
 )
 
 # -------------------------
@@ -116,5 +132,5 @@ st.json({
     "Language": selected["language"],
     "Advice Sent": selected["advice"],
     "Symptoms (Answers)": selected["answers"],
-    "Timestamp": str(selected["timestamp"])
+    "Timestamp": selected["timestamp"]
 })
